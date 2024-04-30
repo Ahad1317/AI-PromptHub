@@ -2,6 +2,8 @@
 
 Welcome to **AI PromptHub** 🚀, your premier marketplace for AI-generated prompts! Whether you're looking to spark creativity, boost your productivity, or explore new AI capabilities, AI PromptHub connects you with a global community of prompt creators and consumers.
 
+### 🛒 Check it out here!   👉 [AI PromptHub Live](https://ai-prompt-hub-kappa.vercel.app/)
+
 ## 🌟 Features
 
 - **Explore** a wide range of creative and innovative AI prompts.
